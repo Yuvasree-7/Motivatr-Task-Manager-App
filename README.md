@@ -1,5 +1,4 @@
 ---
-
 # 🎯 Motivatr - A Beautiful Todo Manager
 
 > *“Turn your ideas into action and habits into success!”*
