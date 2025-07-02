@@ -1,5 +1,3 @@
-Here’s an enhanced and polished version of your README file for **🎯 Motivatr – A Beautiful Todo Manager**. I've improved clarity, formatting, engagement, and completeness, while maintaining your core message and aesthetic.
-
 ---
 
 # 🎯 Motivatr - A Beautiful Todo Manager
