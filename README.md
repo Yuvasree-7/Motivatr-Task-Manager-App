@@ -135,3 +135,9 @@ This project is licensed under the [MIT License](LICENSE).
 Working video  https://drive.google.com/file/d/1-uuDCqCnwhyoX5kjpEC7mr63xggaTbqp/view?usp=sharing
 
 This project is a part of a hackathon run by https://www.katomaran.com
+
+## 🌐 Live Site
+
+You can check out the live version of this project here:  
+👉 [Visit the Live Website](https://motivatr-task-manager-app.vercel.app/)
+
