@@ -1,3 +1,4 @@
+
 ---
 # 🎯 Motivatr - A Beautiful Todo Manager
 
@@ -121,8 +122,11 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙏 Credits
 
 
+
 * 💡 Inspired by: The productivity and open-source community.
 
 > *“Small tasks completed daily lead to big goals achieved eventually.” – Keep moving forward with Motivatr.*
 
+Working video  https://drive.google.com/file/d/1-uuDCqCnwhyoX5kjpEC7mr63xggaTbqp/view?usp=sharing
 
+This project is a part of a hackathon run by https://www.katomaran.com
