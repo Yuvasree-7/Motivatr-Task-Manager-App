@@ -35,7 +35,12 @@ Motivatr is a modern, motivational task manager that combines functionality with
 
 ## 🖼️ Screenshots
 
-> *Coming soon! Add screenshots or GIFs to show off your app's key screens and animations.*
+![image](https://github.com/user-attachments/assets/da24ebbf-b1b8-4676-8265-6883d268d885)
+![image](https://github.com/user-attachments/assets/d0e9e5a3-9746-4f5f-bd93-3e8e9c347eaf)
+
+![image](https://github.com/user-attachments/assets/7c53e2a0-271b-4981-84b1-bb89c376298e)
+
+
 
 ---
 
